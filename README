@@ -1,0 +1,12 @@
+Fastboot_ADB
+======================
+
+Some scripts for bootloader and recovery written in Batch. 
+ 
+In the folder 'recovery' you will find the scripts for flashing CWM (Clock Work Mod Recovery) on your device. 
+In the folder 'bootloader' you will find the script for bootloader's unlock. 
+
+Obviously, you must have installed ADB and Fastboot on your computer. In the Android SDK's folders are already present.
+
+
+Enjoy and flash!
