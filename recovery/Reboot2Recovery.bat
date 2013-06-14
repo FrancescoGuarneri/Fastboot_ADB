@@ -1,3 +1,3 @@
-@SET ADB=c:\UnlockL9\adb
+@SET ADB=c:\adb
 %ADB% wait-for-device
 %ADB% reboot recovery
